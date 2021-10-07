@@ -1,3 +1,6 @@
 [submodule "themes/eureka"]
 	path = themes/eureka
 	url = https://github.com/wangchucheng/hugo-eureka
+[submodule "content"]
+	path = content
+	url = https://github.com/roosyak/helpuslugi-content
