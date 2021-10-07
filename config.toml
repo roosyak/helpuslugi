@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://helpuslugi.ru/'
 languageCode = 'en-us'
 title = 'Help Услуги'
 theme="eureka"
