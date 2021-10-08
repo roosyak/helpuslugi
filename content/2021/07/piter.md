@@ -1,5 +1,5 @@
 ---
-title: "В Петербургу главный конструктор перевёл банковским мошенникам 16 млн рублей"
+title: "В Петербурге главный конструктор перевёл банковским мошенникам 16 млн рублей"
 date: 2021-07-01T13:55:15+03:00
 draft: false
 source: https://78.ru/news/2021-07-01/v_peterburge_glavnii_konstruktor_perevl_bankovskim_moshennikam_16_mln_rublei
