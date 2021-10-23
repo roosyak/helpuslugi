@@ -1,8 +1,9 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
+  {{ .Content }}
   <div>
     {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
-    <strong>Publish date: </strong>{{ .PublishDate.Format $dateFormat }}
+    <!--strong>: </strong-->{{ .PublishDate.Format $dateFormat }}
   </div>
   {{ $tags := slice }}
   {{ with .Params.tags }}
@@ -16,6 +17,5 @@
       {{ delimit $tags ", " }}
     </div>
   {{ end }}
-  {{ .Content }}
   {{ partial "disqus.html" . }}
 {{ end }}

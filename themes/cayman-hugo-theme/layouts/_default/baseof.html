@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
 {{ partial "head.html" . }}
+
 <body>
   {{ partial "header-nav.html" . }}
   <section class="main-content">
     {{ block "main" . }}{{ end }}
+  </section>
+  <section class="main-content">
     {{ partial "footer.html" . }}
   </section>
   {{ partial "yandex-metrika.html" . }}
   {{ partial "google-analytics-async.html" . }}
 </body>
+
 </html>
