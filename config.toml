@@ -21,6 +21,8 @@ pygmentsStyle = "pygments"
   post = "/:filename/"
 
 [params]
+  yandexMetrika = 85910346
+  
   # Header text, can be markdown
   project_name = "Help Услуги"
   project_tagline = "Скорая финансовая и юридическая помощь"
