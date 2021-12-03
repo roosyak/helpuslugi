@@ -1,5 +1,5 @@
 ---
-title: Договор «на коленке»: кредит, опасный для жилья
+title: "Договор «на коленке»: кредит, опасный для жилья"
 date: 2021-01-19
 source: https://xn--80aaxsfnme.xn--p1ai/ru-ru/news/dogovor-na-kolenke-kredit-opasnyj-dlya-zhilya
 ---
