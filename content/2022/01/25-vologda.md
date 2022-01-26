@@ -1,6 +1,6 @@
 ---
 title: В волжском горсуде женщина ответит за мошенничество с квартирами
-date: 2022-01-25
+date: 2022-01-25T01:01:01+03:00
 source: https://vlg.aif.ru/incidents/crime/v_volzhskom_gorsude_zhenshchina_otvetit_za_moshennichestvo_s_kvartirami
 ---
 

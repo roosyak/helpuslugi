@@ -1,6 +1,6 @@
 ---
 title: Эксперты назвали риски потребкредитования под залог недвижимости
-date: 2021-01-20
+date: 2021-01-20T01:01:01+03:00
 source: https://kpravda.ru/2021/01/20/eksperty-nazvali-riski-potrebkreditovaniya-pod-zalog-nedvizhimosti/
 ---
 

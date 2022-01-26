@@ -1,6 +1,6 @@
 ---
 title: Безопасно ли брать в микрофинансовой организации займы «до зарплаты»?
-date: 2021-07-05
+date: 2021-07-05T01:01:01+03:00
 source: https://www.province.ru/kostroma/vopros-otvet/bezopasno-li-brat-v-mikrofinansovoj-organizatsii-zajmy-do-zarplaty.html
 ---
 

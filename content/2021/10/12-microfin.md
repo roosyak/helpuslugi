@@ -1,6 +1,6 @@
 ---
 title: Микрофинансовые компании хотят снова выдавать займы под залог жилья
-date: 2021-10-12
+date: 2021-10-12T01:01:01+03:00
 source: https://ru.myfin.by/article/mikrofinansovye-kompanii-hotyat-snova-vydavat-zaymy-pod-zalog-zhilya
 ---
 

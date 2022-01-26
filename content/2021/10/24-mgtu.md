@@ -1,6 +1,6 @@
 ---
 title: Музейная работница МГУ «отдала» мошенникам две квартиры
-date: 2021-10-24
+date: 2021-10-24T01:01:01+03:00
 source: https://www.osnmedia.ru/proisshestviya/muzejnaya-rabotnitsa-mgu-otdala-moshennikam-dve-kvartiry/
 ---
 

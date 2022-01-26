@@ -1,6 +1,6 @@
 ---
 title: "Простые договоры и непростые мошенники: в России стало больше афер с недвижимостью"
-date: 2022-01-14
+date: 2022-01-14T01:01:01+03:00
 source: https://xn--80aaxsfnme.xn--p1ai/ru-ru/news/prostye-dogovory-i-neprostye-moshenniki-v-rossii-stalo-bolshe-afer-s-nedvizhimostyu-2201
 ---
 

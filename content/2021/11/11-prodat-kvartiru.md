@@ -1,6 +1,6 @@
 ---
 title: Жительнице Новосибирска пришлось заплатить 1 млн за право продать свою квартиру
-date: 2021-11-11
+date: 2021-11-11T01:01:01+03:00
 source: https://novos.mk.ru/social/2021/11/11/zhitelnice-novosibirska-prishlos-zaplatit-1-mln-za-pravo-prodat-svoyu-kvartiru.html
 ---
 

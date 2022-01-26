@@ -1,6 +1,6 @@
 ---
 title: Что надо знать о займах «до зарплаты»
-date: 2021-12-08
+date: 2021-12-08T01:01:01+03:00
 source: https://rg.ru/2021/12/08/chto-nado-znat-o-zajmah-do-zarplaty.html
 ---
 

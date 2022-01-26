@@ -1,6 +1,6 @@
 ---
 title: Какие расписки взять у продавца квартиры?
-date: 2022-01-22
+date: 2022-01-22T01:01:01+03:00
 source: https://aif.ru/money/mymoney/kakie_raspiski_vzyat_u_prodavca_kvartiry
 ---
 

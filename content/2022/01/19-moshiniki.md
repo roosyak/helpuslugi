@@ -1,6 +1,6 @@
 ---
 title: "Простые договоры и непростые мошенники: в России выросло число афер с недвижимостью"
-date: 2022-01-19
+date: 2022-01-19T01:01:01+03:00
 source: https://crimeapress.info/prostye-dogovory-i-neprostye-moshenniki-v-rossii-vyroslo-chislo-afer-s-nedvizhimostyu/
 ---
 

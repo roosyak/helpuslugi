@@ -1,6 +1,6 @@
 ---
 title: Пригожин обеспокоен судьбой выселенных из квартиры детей и экс-супруги
-date: 2021-05-25
+date: 2021-05-25T01:01:01+03:00
 source: https://nevnov.ru/878697-prigozhin-obespokoen-sudboi-vyselennykh-iz-kvartiry-detei-i-eks-suprugi
 ---
 

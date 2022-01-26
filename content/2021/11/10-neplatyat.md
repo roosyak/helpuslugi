@@ -1,6 +1,6 @@
 ---
 title: Россияне не платят по каждому второму займу «до зарплаты»
-date: 2021-11-10
+date: 2021-11-10T01:01:01+03:00
 source: https://newsland.com/user/4298184701/content/rossiiane-ne-platiat-po-kazhdomu-vtoromu-zaimu-do-zarplaty/7504454
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Адвокат рассказал, по каким причинам у россиянина могут забрать квартиру
-date: 2021-08-26
+date: 2021-08-26T01:01:01+03:00
 source: https://slovodel.com/617349-advokat-rasskazal-po-kakim-prichinam-u-rossiyanina-mogut-zabrat-kvartiru
 ---
 

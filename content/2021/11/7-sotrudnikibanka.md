@@ -1,6 +1,6 @@
 ---
 title: В ПЕТЕРБУРГЕ ЛЖЕСОТРУДНИКИ БАНКА ВЫМАНИЛИ У ГОРОЖАН БОЛЕЕ 5,5 МИЛЛИОНА РУБЛЕЙ
-date: 2021-11-08
+date: 2021-11-08T01:01:01+03:00
 source: https://forpost-sz.ru/a/2021-11-07/v-peterburge-lzhesotrudniki-banka-vymanili-u-gorozhan-bolee-55-milliona-rublej
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Случаев мошенничества с недвижимостью в России стало больше на 6,5%
-date: 2022-01-12
+date: 2022-01-12T01:01:01+03:00
 source: https://360tv.ru/news/obschestvo/sluchaev-moshennichestva-s-nedvizhimostju-v-rossii-stalo-bolshe-na-65/
 ---
 

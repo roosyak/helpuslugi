@@ -1,6 +1,6 @@
 ---
 title: "Безопасный микрозаем: миф или реальность?"
-date: 2021-09-19
+date: 2021-09-19T01:01:01+03:00
 source: https://volhovsmi.ru/obrazovanie/bezopasnyj-mikrozaem-mif-ili-realnost
 ---
 

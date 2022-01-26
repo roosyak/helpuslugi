@@ -1,6 +1,6 @@
 ---
 title: "«Они знали, что подписывают»: в Казани суд приступил к прениям по делу «черных риелторов»"
-date: 2022-01-25
+date: 2022-01-25T01:01:01+03:00
 source: https://www.tatar-inform.ru/news/oni-znali-cto-podpisyvayut-v-kazani-sud-pristupil-k-preniyam-po-delu-cernyx-rieltorov-5851923
 ---
 

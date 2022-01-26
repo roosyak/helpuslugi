@@ -1,6 +1,6 @@
 ---
 title: Житель Красноярска потерял две квартиры из-за долга в 6 миллионов рублей
-date: 2022-01-19
+date: 2022-01-19T01:01:01+03:00
 source: https://kras.mk.ru/social/2022/01/19/zhitel-krasnoyarska-poteryal-dve-kvartiry-izza-dolga-v-6-millionov-rubley.html
 ---
 

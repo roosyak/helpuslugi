@@ -1,6 +1,6 @@
 ---
 title: Как работают МФО в РФ? Разбираемся в популярных мифах о микрофинансовых организациях
-date: 2021-10-28
+date: 2021-10-28T01:01:01+03:00
 source: https://gorod55.ru/news/economy/18-10-2021/kak-rabotayut-mfo-v-rf-razbiraemsya-v-populyarnyh-mifah-o-mikrofinansovyh-organizatsiyah
 ---
 

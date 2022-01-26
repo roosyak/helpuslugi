@@ -1,6 +1,6 @@
 ---
 title: "Штраф, суд, коллекторы: что грозит заемщику за просрочку по микрозайму?"
-date: 2022-01-26
+date: 2022-01-26T01:01:01+03:00
 source: https://bankstoday.net/last-articles/shtraf-sud-kollektory-chto-grozit-zaemshhiku-za-prosrochku-po-mikrozajmu
 ---
 

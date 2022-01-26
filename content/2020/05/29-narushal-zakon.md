@@ -1,6 +1,6 @@
 ---
 title: При выдаче микрозаймов на Кубани нарушали закон
-date: 2020-05-29
+date: 2020-05-29T01:01:01+03:00
 source: https://www.kubantv.ru/proisshestviya/pri-vydache-mikrozajmov-na-kubani-narushali-zakon/
 ---
 

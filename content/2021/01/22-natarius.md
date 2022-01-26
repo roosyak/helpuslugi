@@ -1,6 +1,6 @@
 ---
 title: Нотариус Югры рассказала о риске потерять квартиру, кредитуясь в микрофинансовых организациях
-date: 2021-01-22
+date: 2021-01-22T01:01:01+03:00
 source: https://xn--80aaxsfnme.xn--p1ai/ru-ru/news/notarius-yugry-elena-soloveva-rasskazala-o-riske-poteryat-kvartiru-kredituyas-v-mikrofinansovyh-organizaciyah
 ---
 
