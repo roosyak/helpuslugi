@@ -67,8 +67,6 @@ pygmentsStyle = "pygments"
     url = "/"
     weight = 1
   [[menu.nav]]
-    name = "О проекте"
-    url = "/about/"
     weight = 2 
   [[menu.nav]]
     name = "Теги"
