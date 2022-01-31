@@ -1,8 +1,7 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
 <ul>
-{{ $pages := .Pages }}
-{{ range $pages.ByPublishDate.Reverse }}
+  {{ range .Pages.ByPublishDate }}
   <li>
     {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
     {{ .PublishDate.Format $dateFormat }}
@@ -11,5 +10,5 @@
     </a>
   </li>        
 {{ end }}
-</ul>
+</ul> 
 {{ end }}
