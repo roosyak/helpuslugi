@@ -3,6 +3,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Help Услуги"
 theme = "cayman-hugo-theme"
+paginate = 10
 
 # Google analytics
 # googleAnalytics = "UA-123456789-1"

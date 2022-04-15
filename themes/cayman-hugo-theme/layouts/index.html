@@ -13,7 +13,7 @@
       <hr>
       <div>
         <h2>Новости</h2>
-        {{ range first 20 .Site.RegularPages }}
+        {{ range (.Paginator).Pages }}
           <li>
             <a href="{{ .Permalink }}">
               {{ .Title }}
@@ -21,7 +21,8 @@
             {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
             <small>{{ .PublishDate.Format $dateFormat }}</small>
           </li>    
-        {{ end }}
+        {{ end }} 
+        {{ template "_internal/pagination.html" . }}
       </div>
     </main>
 {{ end }}
